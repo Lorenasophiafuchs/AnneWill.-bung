@@ -1,12 +1,12 @@
 from,to,relationship
-UVDL ,LK,2
-UVDL ,NR,2
-UVDL ,SW ,2
-UVDL ,CS,1
+UVDL,LK,2
+UVDL,NR,2
+UVDL,SW,2
+UVDL,CS,1
 LK,NR,2
-LK,SW ,2
+LK,SW,2
 LK,CS,1
-NR,SW ,2
+NR,SW,2
 NR,CS,1
 CL,NR,2
 CL,KS,1
